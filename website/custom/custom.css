@@ -1,0 +1,43 @@
+.bg-primary {
+  background-color: #1e5f86 !important;
+}
+
+.feature-icon-large i {
+	border: 2px solid #1e5f86;
+}
+
+h1, h2, h3, h4, h5, h5, h6 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.simple-bar .logo {
+  max-height: 60px;
+  bottom: 26px;
+}
+
+.logo.logo-wide {
+  max-width: 200px;
+  bottom: 24px;
+}
+
+.overlay-bar.nav-sticky .logo.logo-wide {
+	max-width: 140px;
+}
+
+ul.menu { float:right;}
+
+.footer-container { font-size: 18px; }
+
+.page-header p.lead {
+  font-size: 24px;
+}
+
+.page-header h1 {
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+
+.timeline-event h2 {
+  font-size: 24px;
+  line-height: 32px;
+}

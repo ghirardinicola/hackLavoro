@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>JSON</title>
+
+<script src="src/javascripts/jquery-1.11.2.min.js"></script>
+<link rel="stylesheet" href="src/javascripts/jquery-ui.min.css" />
+<script src="src/javascripts/jquery-ui.min.js"></script>
+
+</head>
+<body>
+<div class="ui-widget">
+	<label for="tags">Tags: </label>
+	<input id="tags">
+</div>
+<script>
+	$(document).ready(function() {
+	
+	var json = (function() {
+        var json = null;
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "dati.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();
+	var availableWorks = [];
+	for (var i=1; i<Object.keys(json[0]).length; i++){
+		availableWorks.push(Object.keys(json[0])[i].toString());
+	}
+	
+	$( "#tags" ).autocomplete({
+	source: availableWorks
+	});
+	});
+</script>
+</body>
+</html>

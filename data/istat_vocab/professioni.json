@@ -1,0 +1,1542 @@
+[
+  {
+    "FIELD1":1222,
+    "FIELD2":"Direttori e dirigenti industria in senso stretto e nelle P.U."
+  },
+  {
+    "FIELD1":1224,
+    "FIELD2":"Dirigenti generali di aziende nel commercio"
+  },
+  {
+    "FIELD1":1225,
+    "FIELD2":"Direttori e dirigenti nei servizi di alloggio e ristorazione"
+  },
+  {
+    "FIELD1":1227,
+    "FIELD2":"Direttori e dirigenti di banche, assicurazioni e agenzie immobiliari"
+  },
+  {
+    "FIELD1":1228,
+    "FIELD2":"Dirigenti generali di aziende di servizi alle imprese e alle persone"
+  },
+  {
+    "FIELD1":1231,
+    "FIELD2":"Dirigenti del dipartimento finanza e amministrazione"
+  },
+  {
+    "FIELD1":1232,
+    "FIELD2":"Direttori e dirigenti gestione risorse umane e relazioni industriali"
+  },
+  {
+    "FIELD1":1233,
+    "FIELD2":"Dirigenti del dipartimento vendite e commercializzazione"
+  },
+  {
+    "FIELD1":1234,
+    "FIELD2":"Direttori e dirigenti in comunicazione, pubblicità e public relations"
+  },
+  {
+    "FIELD1":1235,
+    "FIELD2":"Direttori e dirigenti dipartimento approvvigionamento e distribuzione"
+  },
+  {
+    "FIELD1":1236,
+    "FIELD2":"Direttori e dirigenti del dipartimento servizi informatici"
+  },
+  {
+    "FIELD1":1237,
+    "FIELD2":"Dirigenti del dipartimento ricerca e sviluppo"
+  },
+  {
+    "FIELD1":1314,
+    "FIELD2":"Responsabili di piccole aziende nel commercio"
+  },
+  {
+    "FIELD1":1315,
+    "FIELD2":"Responsabili piccole aziende nei servizi di alloggio e ristorazione"
+  },
+  {
+    "FIELD1":1319,
+    "FIELD2":"Responsabili piccole aziende in altri settori di attività economica"
+  },
+  {
+    "FIELD1":2111,
+    "FIELD2":"Fisici e astronomi"
+  },
+  {
+    "FIELD1":2112,
+    "FIELD2":"Chimici e professioni assimilate"
+  },
+  {
+    "FIELD1":2113,
+    "FIELD2":"Matematici, statistici e professioni assimilate"
+  },
+  {
+    "FIELD1":2114,
+    "FIELD2":"Analisti e progettisti di software"
+  },
+  {
+    "FIELD1":2115,
+    "FIELD2":"Progettisti e amministratori di sistemi"
+  },
+  {
+    "FIELD1":2116,
+    "FIELD2":"Geologi, meteorologi, geofisici e professioni assimilate"
+  },
+  {
+    "FIELD1":2211,
+    "FIELD2":"Ingegneri energetici e meccanici"
+  },
+  {
+    "FIELD1":2212,
+    "FIELD2":"Ingegneri metallurgico-minerari"
+  },
+  {
+    "FIELD1":2213,
+    "FIELD2":"Ingegneri elettrotecnici"
+  },
+  {
+    "FIELD1":2214,
+    "FIELD2":"Ingegneri elettronici e in telecomunicazioni"
+  },
+  {
+    "FIELD1":2215,
+    "FIELD2":"Ingegneri chimici, petroliferi e dei materiali"
+  },
+  {
+    "FIELD1":2216,
+    "FIELD2":"Ingegneri civili e professioni assimilate"
+  },
+  {
+    "FIELD1":2217,
+    "FIELD2":"Ingegneri industriali e gestionali"
+  },
+  {
+    "FIELD1":2218,
+    "FIELD2":"Ingegneri biomedici e bioingegneri"
+  },
+  {
+    "FIELD1":2221,
+    "FIELD2":"Architetti, urbanisti e specialisti recupero-conservazione territorio"
+  },
+  {
+    "FIELD1":2311,
+    "FIELD2":"Biologi, botanici, zoologi e professioni assimilate"
+  },
+  {
+    "FIELD1":2312,
+    "FIELD2":"Farmacologi, batteriologi e professioni assimilate"
+  },
+  {
+    "FIELD1":2313,
+    "FIELD2":"Agronomi e forestali"
+  },
+  {
+    "FIELD1":2314,
+    "FIELD2":"Veterinari"
+  },
+  {
+    "FIELD1":2315,
+    "FIELD2":"Farmacisti"
+  },
+  {
+    "FIELD1":2411,
+    "FIELD2":"Medici di medicina generale"
+  },
+  {
+    "FIELD1":2412,
+    "FIELD2":"Specialisti in terapie mediche"
+  },
+  {
+    "FIELD1":2413,
+    "FIELD2":"Specialisti in terapie chirurgiche"
+  },
+  {
+    "FIELD1":2414,
+    "FIELD2":"Laboratoristi e patologi clinici"
+  },
+  {
+    "FIELD1":2415,
+    "FIELD2":"Dentisti e odontostomatologi"
+  },
+  {
+    "FIELD1":2416,
+    "FIELD2":"Specialisti in diagnostica per immagini e radioterapia"
+  },
+  {
+    "FIELD1":2417,
+    "FIELD2":"Specialisti in igiene, epidemiologia e sanità pubblica"
+  },
+  {
+    "FIELD1":2418,
+    "FIELD2":"Anestesisti e rianimatori"
+  },
+  {
+    "FIELD1":2512,
+    "FIELD2":"Specialisti della gestione e del controllo nelle imprese private"
+  },
+  {
+    "FIELD1":2513,
+    "FIELD2":"Specialisti gestione e sviluppo del personale e del lavoro"
+  },
+  {
+    "FIELD1":2514,
+    "FIELD2":"Specialisti in contabilità e problemi finanziari"
+  },
+  {
+    "FIELD1":2515,
+    "FIELD2":"Specialisti nei rapporti con il mercato"
+  },
+  {
+    "FIELD1":2516,
+    "FIELD2":"Specialisti nelle pubbliche relazioni, dell'immagine e simili"
+  },
+  {
+    "FIELD1":2521,
+    "FIELD2":"Procuratori legali e avvocati"
+  },
+  {
+    "FIELD1":2522,
+    "FIELD2":"Esperti legali in imprese o enti pubblici"
+  },
+  {
+    "FIELD1":2531,
+    "FIELD2":"Specialisti in scienze economiche"
+  },
+  {
+    "FIELD1":2532,
+    "FIELD2":"Specialisti in scienze sociologiche e antropologiche"
+  },
+  {
+    "FIELD1":2533,
+    "FIELD2":"Specialisti in scienze psicologiche e psicoterapeutiche"
+  },
+  {
+    "FIELD1":2534,
+    "FIELD2":"Specialisti in scienze storiche, artistiche, politiche e filosofiche"
+  },
+  {
+    "FIELD1":2541,
+    "FIELD2":"Scrittori e professioni assimilate"
+  },
+  {
+    "FIELD1":2542,
+    "FIELD2":"Giornalisti"
+  },
+  {
+    "FIELD1":2543,
+    "FIELD2":"Interpreti e traduttori a livello elevato"
+  },
+  {
+    "FIELD1":2544,
+    "FIELD2":"Linguisti e filologi"
+  },
+  {
+    "FIELD1":2545,
+    "FIELD2":"Archivisti, bibliotecari, conservatori di musei e profess.assimilate"
+  },
+  {
+    "FIELD1":2551,
+    "FIELD2":"Pittori, scultori, disegnatori e restauratori di beni culturali"
+  },
+  {
+    "FIELD1":2552,
+    "FIELD2":"Registi, direttori artistici, attori, sceneggiatori e scenografi"
+  },
+  {
+    "FIELD1":2553,
+    "FIELD2":"Coreografi e ballerini"
+  },
+  {
+    "FIELD1":2554,
+    "FIELD2":"Compositori, musicisti e cantanti"
+  },
+  {
+    "FIELD1":2610,
+    "FIELD2":"Docenti universitari"
+  },
+  {
+    "FIELD1":2632,
+    "FIELD2":"Professori di scuola secondaria superiore"
+  },
+  {
+    "FIELD1":2633,
+    "FIELD2":"Professori di scuola secondaria inferiore"
+  },
+  {
+    "FIELD1":2641,
+    "FIELD2":"Professori di scuola primaria"
+  },
+  {
+    "FIELD1":2642,
+    "FIELD2":"Professori di scuola preâ€“primaria"
+  },
+  {
+    "FIELD1":2651,
+    "FIELD2":"Specialisti nella formazione di soggetti diversamente abili"
+  },
+  {
+    "FIELD1":2653,
+    "FIELD2":"Docenti ed esperti nella progettazione formativa e curricolare"
+  },
+  {
+    "FIELD1":2654,
+    "FIELD2":"Consiglieri dellâ€™orientamento"
+  },
+  {
+    "FIELD1":2655,
+    "FIELD2":"Insegnanti di discipline artistiche e letterarie"
+  },
+  {
+    "FIELD1":3111,
+    "FIELD2":"Tecnici fisici e geologici"
+  },
+  {
+    "FIELD1":3112,
+    "FIELD2":"Tecnici chimici"
+  },
+  {
+    "FIELD1":3113,
+    "FIELD2":"Tecnici statistici"
+  },
+  {
+    "FIELD1":3121,
+    "FIELD2":"Tecnici programmatori"
+  },
+  {
+    "FIELD1":3122,
+    "FIELD2":"Tecnici esperti in applicazioni"
+  },
+  {
+    "FIELD1":3123,
+    "FIELD2":"Tecnici web"
+  },
+  {
+    "FIELD1":3124,
+    "FIELD2":"Tecnici gestori di basi di dati"
+  },
+  {
+    "FIELD1":3125,
+    "FIELD2":"Tecnici gestori di reti e di sistemi telematici"
+  },
+  {
+    "FIELD1":3126,
+    "FIELD2":"Tecnici per la trasmissione radio-televisiva e le telecomunicazioni"
+  },
+  {
+    "FIELD1":3131,
+    "FIELD2":"Tecnici meccanici"
+  },
+  {
+    "FIELD1":3132,
+    "FIELD2":"Tecnici metallurgico-minerari e della ceramica"
+  },
+  {
+    "FIELD1":3133,
+    "FIELD2":"Elettrotecnici"
+  },
+  {
+    "FIELD1":3134,
+    "FIELD2":"Tecnici elettronici"
+  },
+  {
+    "FIELD1":3135,
+    "FIELD2":"Tecnici delle costruzioni civili e professioni assimilate"
+  },
+  {
+    "FIELD1":3136,
+    "FIELD2":"Tecnici del risparmio energetico e delle energie rinnovabili"
+  },
+  {
+    "FIELD1":3137,
+    "FIELD2":"Disegnatori industriali e professioni assimilate"
+  },
+  {
+    "FIELD1":3141,
+    "FIELD2":"Tecnici della conduzione di impianti produttivi in continuo"
+  },
+  {
+    "FIELD1":3142,
+    "FIELD2":"Tecnici dell'esercizio di reti idriche ed energetiche"
+  },
+  {
+    "FIELD1":3151,
+    "FIELD2":"Tecnici di produzione in miniere e cave"
+  },
+  {
+    "FIELD1":3152,
+    "FIELD2":"Tecnici della gestione di cantieri edili"
+  },
+  {
+    "FIELD1":3153,
+    "FIELD2":"Tecnici della produzione manifatturiera"
+  },
+  {
+    "FIELD1":3154,
+    "FIELD2":"Tecnici della produzione e preparazione alimentare"
+  },
+  {
+    "FIELD1":3155,
+    "FIELD2":"Tecnici della produzione di servizi"
+  },
+  {
+    "FIELD1":3161,
+    "FIELD2":"Comandanti e ufficiali di bordo"
+  },
+  {
+    "FIELD1":3162,
+    "FIELD2":"Comandanti e piloti di aereo"
+  },
+  {
+    "FIELD1":3163,
+    "FIELD2":"Tecnici dell'aviazione civile"
+  },
+  {
+    "FIELD1":3164,
+    "FIELD2":"Tecnici dell'organizzazione del traffico ferroviario"
+  },
+  {
+    "FIELD1":3165,
+    "FIELD2":"Tecnici dell'organizzazione del traffico portuale"
+  },
+  {
+    "FIELD1":3171,
+    "FIELD2":"Fotografi e professioni assimilate"
+  },
+  {
+    "FIELD1":3172,
+    "FIELD2":"Operatori di apparecchi per la ripresa e la produzione audio-video"
+  },
+  {
+    "FIELD1":3173,
+    "FIELD2":"Tecnici di apparati medicali e per la diagnostica medica"
+  },
+  {
+    "FIELD1":3181,
+    "FIELD2":"Tecnici della sicurezza di impianti"
+  },
+  {
+    "FIELD1":3182,
+    "FIELD2":"Tecnici della sicurezza sul lavoro"
+  },
+  {
+    "FIELD1":3183,
+    "FIELD2":"Tecnici del controllo e della bonifica ambientale"
+  },
+  {
+    "FIELD1":3211,
+    "FIELD2":"Professioni sanitarie infermieristiche e ostetriche"
+  },
+  {
+    "FIELD1":3212,
+    "FIELD2":"Professioni sanitarie riabilitative"
+  },
+  {
+    "FIELD1":3213,
+    "FIELD2":"Professioni tecnico sanitarie - area tecnico diagnostica"
+  },
+  {
+    "FIELD1":3214,
+    "FIELD2":"Professioni tecnico sanitarie - area tecnico assistenziale"
+  },
+  {
+    "FIELD1":3215,
+    "FIELD2":"Professioni tecniche della prevenzione"
+  },
+  {
+    "FIELD1":3216,
+    "FIELD2":"Altre professioni tecniche della salute"
+  },
+  {
+    "FIELD1":3221,
+    "FIELD2":"Tecnici agronomi e forestali"
+  },
+  {
+    "FIELD1":3222,
+    "FIELD2":"Zootecnici"
+  },
+  {
+    "FIELD1":3223,
+    "FIELD2":"Tecnici biochimici e professioni assimilate"
+  },
+  {
+    "FIELD1":3311,
+    "FIELD2":"Segretari amministrativi, archivisti e professioni assimilate"
+  },
+  {
+    "FIELD1":3312,
+    "FIELD2":"Contabili e professioni assimilate"
+  },
+  {
+    "FIELD1":3313,
+    "FIELD2":"Tecnici del trasferimento e del trattamento delle informazioni"
+  },
+  {
+    "FIELD1":3314,
+    "FIELD2":"Corrispondenti in lingue estere e professioni assimilate"
+  },
+  {
+    "FIELD1":3315,
+    "FIELD2":"Tecnici dell'organizzazione e della gestione dei fattori produttivi"
+  },
+  {
+    "FIELD1":3321,
+    "FIELD2":"Tecnici della gestione finanziaria"
+  },
+  {
+    "FIELD1":3322,
+    "FIELD2":"Tecnici del lavoro bancario"
+  },
+  {
+    "FIELD1":3323,
+    "FIELD2":"Agenti assicurativi"
+  },
+  {
+    "FIELD1":3324,
+    "FIELD2":"Periti, valutatori di rischio, liquidatori e professioni assimilate"
+  },
+  {
+    "FIELD1":3325,
+    "FIELD2":"Agenti borsa e cambio, tecnici intermed. titoli e profess. assimilate"
+  },
+  {
+    "FIELD1":3326,
+    "FIELD2":"Tecnici della locazione finanziaria e dei contratti di scambio"
+  },
+  {
+    "FIELD1":3331,
+    "FIELD2":"Approvvigionatori e responsabili acquisti"
+  },
+  {
+    "FIELD1":3332,
+    "FIELD2":"Responsabili di magazzino e della distribuzione interna"
+  },
+  {
+    "FIELD1":3334,
+    "FIELD2":"Tecnici della vendita e della distribuzione"
+  },
+  {
+    "FIELD1":3335,
+    "FIELD2":"Tecnici del marketing"
+  },
+  {
+    "FIELD1":3336,
+    "FIELD2":"Tecnici della pubblicità e delle pubbliche relazioni"
+  },
+  {
+    "FIELD1":3341,
+    "FIELD2":"Spedizionieri e tecnici della distribuzione"
+  },
+  {
+    "FIELD1":3342,
+    "FIELD2":"Agenti di commercio"
+  },
+  {
+    "FIELD1":3343,
+    "FIELD2":"Agenti concessionari"
+  },
+  {
+    "FIELD1":3344,
+    "FIELD2":"Agenti di pubblicità"
+  },
+  {
+    "FIELD1":3345,
+    "FIELD2":"Agenti immobiliari"
+  },
+  {
+    "FIELD1":3346,
+    "FIELD2":"Rappresentanti di commercio"
+  },
+  {
+    "FIELD1":3411,
+    "FIELD2":"Tecnici delle attività ricettive e professioni assimilate"
+  },
+  {
+    "FIELD1":3412,
+    "FIELD2":"Tecnici dellâ€™organizzazione di fiere, convegni ed eventi culturali"
+  },
+  {
+    "FIELD1":3413,
+    "FIELD2":"Animatori turistici e professioni assimilate"
+  },
+  {
+    "FIELD1":3414,
+    "FIELD2":"Agenti di viaggio"
+  },
+  {
+    "FIELD1":3415,
+    "FIELD2":"Guide e accompagnatori specializzati"
+  },
+  {
+    "FIELD1":3421,
+    "FIELD2":"Istruttori di guida"
+  },
+  {
+    "FIELD1":3422,
+    "FIELD2":"Insegnanti nella formazione professionale"
+  },
+  {
+    "FIELD1":3423,
+    "FIELD2":"Istruttori di tecniche in campo artistico"
+  },
+  {
+    "FIELD1":3424,
+    "FIELD2":"Istruttori di discipline sportive non agonistiche"
+  },
+  {
+    "FIELD1":3426,
+    "FIELD2":"Allenatori e tecnici di discipline sportive agonistiche"
+  },
+  {
+    "FIELD1":3427,
+    "FIELD2":"Atleti"
+  },
+  {
+    "FIELD1":3431,
+    "FIELD2":"Annunciatori e presentatori radio, televisione e altri spettacoli"
+  },
+  {
+    "FIELD1":3432,
+    "FIELD2":"Tecnici organiz. e produz. radiotelevisiva, cinematografica, teatrale"
+  },
+  {
+    "FIELD1":3441,
+    "FIELD2":"Grafici, disegnatori e allestitori di scena"
+  },
+  {
+    "FIELD1":3442,
+    "FIELD2":"Tecnici dei musei, delle biblioteche e professioni assimilate"
+  },
+  {
+    "FIELD1":3444,
+    "FIELD2":"Tecnici restauratori"
+  },
+  {
+    "FIELD1":3451,
+    "FIELD2":"Assistenti sociali"
+  },
+  {
+    "FIELD1":3452,
+    "FIELD2":"Tecnici del reinserimento e dell'integrazione sociale"
+  },
+  {
+    "FIELD1":3453,
+    "FIELD2":"Tecnici dei servizi per l'impiego"
+  },
+  {
+    "FIELD1":3454,
+    "FIELD2":"Tecnici dei servizi di sicurezza privati e professioni assimilate"
+  },
+  {
+    "FIELD1":3455,
+    "FIELD2":"Tecnici delle attività religiose e di culto"
+  },
+  {
+    "FIELD1":4111,
+    "FIELD2":"Addetti a funzioni di segreteria"
+  },
+  {
+    "FIELD1":4112,
+    "FIELD2":"Addetti agli affari generali"
+  },
+  {
+    "FIELD1":4114,
+    "FIELD2":"Addetti alla gestione del personale"
+  },
+  {
+    "FIELD1":4122,
+    "FIELD2":"Addetti all'immissione dati"
+  },
+  {
+    "FIELD1":4123,
+    "FIELD2":"Addetti macchine riproduzione e invio di materiali e documenti"
+  },
+  {
+    "FIELD1":4211,
+    "FIELD2":"Addetti sportelli assicurativi, bancari e altri intermed. finanziari"
+  },
+  {
+    "FIELD1":4212,
+    "FIELD2":"Addetti agli sportelli dei servizi postali"
+  },
+  {
+    "FIELD1":4213,
+    "FIELD2":"Addetti sportelli esazione imposte e contributi e recupero crediti"
+  },
+  {
+    "FIELD1":4215,
+    "FIELD2":"Addetti alla vendita di biglietti"
+  },
+  {
+    "FIELD1":4216,
+    "FIELD2":"Addetti agli sportelli delle agenzie di viaggio"
+  },
+  {
+    "FIELD1":4221,
+    "FIELD2":"Addetti accoglienza e informaz. nelle imprese e negli enti pubblici"
+  },
+  {
+    "FIELD1":4222,
+    "FIELD2":"Addetti all'accoglienza nei servizi di alloggio e ristorazione"
+  },
+  {
+    "FIELD1":4223,
+    "FIELD2":"Centralinisti"
+  },
+  {
+    "FIELD1":4224,
+    "FIELD2":"Addetti all'informazione nei Call Center (senza funzioni di vendita)"
+  },
+  {
+    "FIELD1":4311,
+    "FIELD2":"Addetti alla gestione degli acquisti"
+  },
+  {
+    "FIELD1":4312,
+    "FIELD2":"Addetti alla gestione dei magazzini e professioni assimilate"
+  },
+  {
+    "FIELD1":4313,
+    "FIELD2":"Addetti alla gestione amministrativa dei trasporti merci"
+  },
+  {
+    "FIELD1":4321,
+    "FIELD2":"Addetti alla contabilità"
+  },
+  {
+    "FIELD1":4322,
+    "FIELD2":"Addetti alle buste paga"
+  },
+  {
+    "FIELD1":4323,
+    "FIELD2":"Addetti operazioni finanziarie per l'impresa o l'organizzazione"
+  },
+  {
+    "FIELD1":4324,
+    "FIELD2":"Addetti ai servizi statistici"
+  },
+  {
+    "FIELD1":4325,
+    "FIELD2":"Addetti agli uffici interni di cassa"
+  },
+  {
+    "FIELD1":4411,
+    "FIELD2":"Personale addetto compiti di controllo, verifica e profess. assim."
+  },
+  {
+    "FIELD1":4412,
+    "FIELD2":"Addetti al controllo della documentazione di viaggio"
+  },
+  {
+    "FIELD1":4413,
+    "FIELD2":"Addetti allo smistamento e al recapito della posta"
+  },
+  {
+    "FIELD1":4421,
+    "FIELD2":"Addetti ad archivi, schedari e professioni assimilate"
+  },
+  {
+    "FIELD1":4422,
+    "FIELD2":"Addetti a biblioteche e professioni assimilate"
+  },
+  {
+    "FIELD1":5111,
+    "FIELD2":"Esercenti delle vendite all'ingrosso"
+  },
+  {
+    "FIELD1":5121,
+    "FIELD2":"Commessi delle vendite all'ingrosso"
+  },
+  {
+    "FIELD1":5122,
+    "FIELD2":"Commessi delle vendite al minuto"
+  },
+  {
+    "FIELD1":5123,
+    "FIELD2":"Addetti ad attività organizzative delle vendite"
+  },
+  {
+    "FIELD1":5124,
+    "FIELD2":"Cassieri di esercizi commerciali"
+  },
+  {
+    "FIELD1":5125,
+    "FIELD2":"Venditori a domicilio, a distanza e professioni assimilate"
+  },
+  {
+    "FIELD1":5126,
+    "FIELD2":"Addetti ai distributori di carburanti e assimilati"
+  },
+  {
+    "FIELD1":5132,
+    "FIELD2":"Dimostratori e professioni assimilate"
+  },
+  {
+    "FIELD1":5133,
+    "FIELD2":"Vetrinisti e professioni assimilate"
+  },
+  {
+    "FIELD1":5134,
+    "FIELD2":"Addetti all'informazione e all'assistenza dei clienti"
+  },
+  {
+    "FIELD1":5221,
+    "FIELD2":"Cuochi in alberghi e ristoranti"
+  },
+  {
+    "FIELD1":5222,
+    "FIELD2":"Addetti alla preparazione, alla cottura e alla distribuzione di cibi"
+  },
+  {
+    "FIELD1":5223,
+    "FIELD2":"Camerieri e professioni assimilate"
+  },
+  {
+    "FIELD1":5224,
+    "FIELD2":"Baristi e professioni assimilate"
+  },
+  {
+    "FIELD1":5231,
+    "FIELD2":"Hostess, steward e professioni assimilate"
+  },
+  {
+    "FIELD1":5232,
+    "FIELD2":"Accompagnatori turistici"
+  },
+  {
+    "FIELD1":5311,
+    "FIELD2":"Professioni qualificate nei servizi sanitari e sociali"
+  },
+  {
+    "FIELD1":5411,
+    "FIELD2":"Maestri di arti e mestieri"
+  },
+  {
+    "FIELD1":5422,
+    "FIELD2":"Allibratori, croupiers e professioni assimilate"
+  },
+  {
+    "FIELD1":5431,
+    "FIELD2":"Acconciatori"
+  },
+  {
+    "FIELD1":5432,
+    "FIELD2":"Estetisti e truccatori"
+  },
+  {
+    "FIELD1":5433,
+    "FIELD2":"Massaggiatori e operatori termali"
+  },
+  {
+    "FIELD1":5442,
+    "FIELD2":"Addetti alla sorveglianza di bambini e professioni assimilate"
+  },
+  {
+    "FIELD1":5443,
+    "FIELD2":"Addetti all'assistenza personale"
+  },
+  {
+    "FIELD1":5462,
+    "FIELD2":"Addetti di agenzie per il disbrigo di pratiche e assimilate"
+  },
+  {
+    "FIELD1":5472,
+    "FIELD2":"Addetti alle agenzie di pompe funebri"
+  },
+  {
+    "FIELD1":5484,
+    "FIELD2":"Vigili del fuoco e professioni assimilate"
+  },
+  {
+    "FIELD1":5486,
+    "FIELD2":"Guardie private di sicurezza"
+  },
+  {
+    "FIELD1":5487,
+    "FIELD2":"Bagnini e professioni assimilate"
+  },
+  {
+    "FIELD1":6112,
+    "FIELD2":"Tagliatori di pietre, scalpellini e marmisti"
+  },
+  {
+    "FIELD1":6121,
+    "FIELD2":"Muratori in pietra, mattoni, refrattari"
+  },
+  {
+    "FIELD1":6122,
+    "FIELD2":"Muratori in cemento armato"
+  },
+  {
+    "FIELD1":6123,
+    "FIELD2":"Carpentieri e falegnami nell'edilizia (esclusi i parchettisti)"
+  },
+  {
+    "FIELD1":6124,
+    "FIELD2":"Ponteggiatori"
+  },
+  {
+    "FIELD1":6125,
+    "FIELD2":"Armatori gallerie, addetti armamento ferroviario e profess. assimilate"
+  },
+  {
+    "FIELD1":6126,
+    "FIELD2":"Pavimentatori stradali e professioni assimilate"
+  },
+  {
+    "FIELD1":6127,
+    "FIELD2":"Montatori di manufatti prefabbricati e di preformati"
+  },
+  {
+    "FIELD1":6131,
+    "FIELD2":"Copritetti e professioni assimilate"
+  },
+  {
+    "FIELD1":6132,
+    "FIELD2":"Pavimentatori e posatori di rivestimenti"
+  },
+  {
+    "FIELD1":6133,
+    "FIELD2":"Intonacatori"
+  },
+  {
+    "FIELD1":6134,
+    "FIELD2":"Installatori di impianti di isolamento e insonorizzazione"
+  },
+  {
+    "FIELD1":6135,
+    "FIELD2":"Vetrai"
+  },
+  {
+    "FIELD1":6136,
+    "FIELD2":"Idraulici e posatori di tubazioni idrauliche e di gas"
+  },
+  {
+    "FIELD1":6137,
+    "FIELD2":"Elettricisti nelle costruzioni civili e professioni assimilate"
+  },
+  {
+    "FIELD1":6138,
+    "FIELD2":"Installatori di infissi e serramenta"
+  },
+  {
+    "FIELD1":6141,
+    "FIELD2":"Pittori, stuccatori, laccatori e decoratori"
+  },
+  {
+    "FIELD1":6151,
+    "FIELD2":"Operai addetti ai servizi di igiene e pulizia"
+  },
+  {
+    "FIELD1":6152,
+    "FIELD2":"Operai addetti manutenzione impianti fognari e profess. assimilate"
+  },
+  {
+    "FIELD1":6211,
+    "FIELD2":"Fonditori e animisti di fonderia"
+  },
+  {
+    "FIELD1":6212,
+    "FIELD2":"Saldatori e tagliatori a fiamma"
+  },
+  {
+    "FIELD1":6213,
+    "FIELD2":"Lattonieri e calderai, compresi i tracciatori"
+  },
+  {
+    "FIELD1":6214,
+    "FIELD2":"Montatori di carpenteria metallica"
+  },
+  {
+    "FIELD1":6215,
+    "FIELD2":"Attrezzatori e montatori cavi metallici uso industriale e di trasporto"
+  },
+  {
+    "FIELD1":6216,
+    "FIELD2":"Sommozzatori e lavoratori subacquei"
+  },
+  {
+    "FIELD1":6217,
+    "FIELD2":"Specialisti di saldatura elettrica e a norme ASME"
+  },
+  {
+    "FIELD1":6218,
+    "FIELD2":"Lastroferratori"
+  },
+  {
+    "FIELD1":6221,
+    "FIELD2":"Fabbri, lingottai e operatori di presse per forgiare"
+  },
+  {
+    "FIELD1":6222,
+    "FIELD2":"Costruttori di utensili modellatori e tracciatori meccanici"
+  },
+  {
+    "FIELD1":6223,
+    "FIELD2":"Attrezzisti di macchine utensili e professioni assimilate"
+  },
+  {
+    "FIELD1":6231,
+    "FIELD2":"Meccanici artigianali, riparatori automobili e profess. assimilate"
+  },
+  {
+    "FIELD1":6232,
+    "FIELD2":"Meccanici e riparatori di motori di aerei"
+  },
+  {
+    "FIELD1":6233,
+    "FIELD2":"Meccanici e montatori di macchinari industriali e assimilati"
+  },
+  {
+    "FIELD1":6234,
+    "FIELD2":"Frigoristi"
+  },
+  {
+    "FIELD1":6235,
+    "FIELD2":"Meccanici e montatori apparecchi ind. termici, idraulici e di condiz."
+  },
+  {
+    "FIELD1":6236,
+    "FIELD2":"Meccanici collaudatori"
+  },
+  {
+    "FIELD1":6237,
+    "FIELD2":"Verniciatori artigianali ed industriali"
+  },
+  {
+    "FIELD1":6238,
+    "FIELD2":"Meccanici e attrezzisti navali"
+  },
+  {
+    "FIELD1":6241,
+    "FIELD2":"Installatori e riparatori di apparati elettrici ed elettromeccanici"
+  },
+  {
+    "FIELD1":6242,
+    "FIELD2":"Manutentori e riparatori apparati elettronici industriali e di misura"
+  },
+  {
+    "FIELD1":6244,
+    "FIELD2":"Installatori e riparatori di apparati di telecomunicazione"
+  },
+  {
+    "FIELD1":6245,
+    "FIELD2":"Installatori di linee elettriche, riparatori e cavisti"
+  },
+  {
+    "FIELD1":6246,
+    "FIELD2":"Installatori, manutentori e riparatori di apparecchiature informatiche"
+  },
+  {
+    "FIELD1":6311,
+    "FIELD2":"Meccanici di precisione"
+  },
+  {
+    "FIELD1":6312,
+    "FIELD2":"Meccanici e riparatori di protesi (dentali e ortopediche)"
+  },
+  {
+    "FIELD1":6313,
+    "FIELD2":"Artigiani e operai costruzione e accordatura di strumenti musicali"
+  },
+  {
+    "FIELD1":6314,
+    "FIELD2":"Addetti alla costruzione e riparazione di orologi"
+  },
+  {
+    "FIELD1":6315,
+    "FIELD2":"Costruttori di strumenti ottici e lenti"
+  },
+  {
+    "FIELD1":6316,
+    "FIELD2":"Orafi, gioiellieri e professioni assimilate"
+  },
+  {
+    "FIELD1":6321,
+    "FIELD2":"Vasai e professioni assimilate (prodotti in ceramica e abrasivi)"
+  },
+  {
+    "FIELD1":6322,
+    "FIELD2":"Soffiatori, modellatori, tagliatori, molatori e levigatori di vetro"
+  },
+  {
+    "FIELD1":6323,
+    "FIELD2":"Incisori e acquafortisti su vetro"
+  },
+  {
+    "FIELD1":6324,
+    "FIELD2":"Pittori e decoratori su vetro e ceramica"
+  },
+  {
+    "FIELD1":6331,
+    "FIELD2":"Artigiani lavorazioni artistiche del legno e di materiali assimilati"
+  },
+  {
+    "FIELD1":6332,
+    "FIELD2":"Artigiani lavorazioni artistiche a mano di tessili, cuoio e simili"
+  },
+  {
+    "FIELD1":6341,
+    "FIELD2":"Operatori delle attività poligrafiche di pre-stampa"
+  },
+  {
+    "FIELD1":6342,
+    "FIELD2":"Stampatori offset e alla rotativa"
+  },
+  {
+    "FIELD1":6344,
+    "FIELD2":"Artigiani incisori, acquafortisti, serigrafisti e profess. assimilate"
+  },
+  {
+    "FIELD1":6345,
+    "FIELD2":"Rilegatori e professioni assimilate"
+  },
+  {
+    "FIELD1":6412,
+    "FIELD2":"Agricoltori e operai agricoli di coltivazioni legnose agrarie"
+  },
+  {
+    "FIELD1":6413,
+    "FIELD2":"Agricoltori e operai agricoli di coltivazioni fiori, piante e ortive"
+  },
+  {
+    "FIELD1":6441,
+    "FIELD2":"Lavoratori forestali specializzati"
+  },
+  {
+    "FIELD1":6511,
+    "FIELD2":"Macellai, pesciaioli e professioni assimilate"
+  },
+  {
+    "FIELD1":6512,
+    "FIELD2":"Panettieri e pastai artigianali"
+  },
+  {
+    "FIELD1":6513,
+    "FIELD2":"Pasticcieri, gelatai e conservieri artigianali"
+  },
+  {
+    "FIELD1":6515,
+    "FIELD2":"Artigiani e operai specializ. lavorazioni artigianali casearie"
+  },
+  {
+    "FIELD1":6521,
+    "FIELD2":"Artigiani e operai specializzati del trattamento del legno"
+  },
+  {
+    "FIELD1":6522,
+    "FIELD2":"Falegnami e attrezzisti di macchine per la lavorazione del legno"
+  },
+  {
+    "FIELD1":6523,
+    "FIELD2":"Impagliatori, cestai, spazzolai, sugherai e professioni assimilate"
+  },
+  {
+    "FIELD1":6531,
+    "FIELD2":"Preparatori di fibre"
+  },
+  {
+    "FIELD1":6532,
+    "FIELD2":"Tessitori e maglieristi a mano e su telai manuali"
+  },
+  {
+    "FIELD1":6533,
+    "FIELD2":"Sarti e tagliatori artigianali, modellisti e cappellai"
+  },
+  {
+    "FIELD1":6534,
+    "FIELD2":"Pellicciai, modellatori di pellicceria e professioni assimilate"
+  },
+  {
+    "FIELD1":6535,
+    "FIELD2":"Biancheristi, ricamatori a mano e professioni assimilate"
+  },
+  {
+    "FIELD1":6536,
+    "FIELD2":"Tappezzieri e materassai"
+  },
+  {
+    "FIELD1":6537,
+    "FIELD2":"Artigiani e addetti alle tintolavanderie"
+  },
+  {
+    "FIELD1":6541,
+    "FIELD2":"Conciatori di pelli e di pellicce"
+  },
+  {
+    "FIELD1":6542,
+    "FIELD2":"Artigiani e operai specializzati delle calzature e assimilati"
+  },
+  {
+    "FIELD1":6543,
+    "FIELD2":"Valigiai, borsettieri e professioni assimilate"
+  },
+  {
+    "FIELD1":6551,
+    "FIELD2":"Macchinisti e attrezzisti di scena"
+  },
+  {
+    "FIELD1":7111,
+    "FIELD2":"Conduttori di macchinari in miniere e cave"
+  },
+  {
+    "FIELD1":7112,
+    "FIELD2":"Conduttori impianti per il primo trattamento di minerali e di pietre"
+  },
+  {
+    "FIELD1":7113,
+    "FIELD2":"Trivellatori e sondatori pozzi petrol., gas natur., e profess. assim."
+  },
+  {
+    "FIELD1":7121,
+    "FIELD2":"Fonditori, operatori di altoforno, di convertitori, di forni raffinaz."
+  },
+  {
+    "FIELD1":7122,
+    "FIELD2":"Operatori forni di seconda fusione, colat. metalli, leghe e laminatoi"
+  },
+  {
+    "FIELD1":7123,
+    "FIELD2":"Operatori di impianti per il trattamento termico dei metalli"
+  },
+  {
+    "FIELD1":7124,
+    "FIELD2":"Trafilatori ed estrusori di metalli"
+  },
+  {
+    "FIELD1":7125,
+    "FIELD2":"Operatori impianti produzione e raffinazione metalli non ferrosi"
+  },
+  {
+    "FIELD1":7131,
+    "FIELD2":"Conduttori impianti produzione vetro, ceramica e laterizi"
+  },
+  {
+    "FIELD1":7132,
+    "FIELD2":"Conduttori di forni e di altri impianti per la lavorazione del vetro"
+  },
+  {
+    "FIELD1":7133,
+    "FIELD2":"Conduttori impianti formatura articoli in ceramica e terracotta"
+  },
+  {
+    "FIELD1":7134,
+    "FIELD2":"Conduttori forni e altri impianti produz. laterizi, tegole e assim."
+  },
+  {
+    "FIELD1":7141,
+    "FIELD2":"Conduttori impianti fabbricazione in serie di pannelli in legno"
+  },
+  {
+    "FIELD1":7142,
+    "FIELD2":"Operatori impianti preparaz. pasta legno e altri mater. per cartiera"
+  },
+  {
+    "FIELD1":7143,
+    "FIELD2":"Operatori di impianti per la fabbricazione della carta"
+  },
+  {
+    "FIELD1":7151,
+    "FIELD2":"Conduttori di impianti per la raffinazione dei prodotti petroliferi"
+  },
+  {
+    "FIELD1":7152,
+    "FIELD2":"Operatori macchinari e impianti per la chimica di base e fine"
+  },
+  {
+    "FIELD1":7153,
+    "FIELD2":"Operatori macchinari fabbricazione prodotti derivati dalla chimica"
+  },
+  {
+    "FIELD1":7161,
+    "FIELD2":"Conduttori caldaie a vapore e di motori termici in impianti industr."
+  },
+  {
+    "FIELD1":7162,
+    "FIELD2":"Operatori impianti riciclaggio rifiuti e trattam. e distribuz. acque"
+  },
+  {
+    "FIELD1":7171,
+    "FIELD2":"Operatori di catene di montaggio automatizzate"
+  },
+  {
+    "FIELD1":7181,
+    "FIELD2":"Conduttori di mulini e impastatrici"
+  },
+  {
+    "FIELD1":7182,
+    "FIELD2":"Conduttori forni e analoghi impianti trattamento termico minerali"
+  },
+  {
+    "FIELD1":7211,
+    "FIELD2":"Operai macchine utensili automatiche e semiautomatiche industriali"
+  },
+  {
+    "FIELD1":7212,
+    "FIELD2":"Operai a macchinari produzione manufatti in cemento e assimilati"
+  },
+  {
+    "FIELD1":7213,
+    "FIELD2":"Conduttori macch. produzione abrasivi e manufatti abrasivi minerali"
+  },
+  {
+    "FIELD1":7221,
+    "FIELD2":"Finitori, operai rivestimenti metallici, galvanoplastica e assimilati"
+  },
+  {
+    "FIELD1":7231,
+    "FIELD2":"Conduttori macchinari confezione e vulcanizzazione dei pneumatici"
+  },
+  {
+    "FIELD1":7232,
+    "FIELD2":"Conduttori macchinari fabbricazione di altri articoli in gomma"
+  },
+  {
+    "FIELD1":7233,
+    "FIELD2":"Conduttori macchinari fabbricazione articoli in plastica e assimilati"
+  },
+  {
+    "FIELD1":7241,
+    "FIELD2":"Operai macchinari produz. in serie di mobili e articoli in legno"
+  },
+  {
+    "FIELD1":7251,
+    "FIELD2":"Conduttori di macchinari per tipografia e stampa su carta e cartone"
+  },
+  {
+    "FIELD1":7252,
+    "FIELD2":"Conduttori macchinari fabbricazione prodotti in carta e cartone"
+  },
+  {
+    "FIELD1":7253,
+    "FIELD2":"Conduttori di macchinari per rilegatura di libri e assimilati"
+  },
+  {
+    "FIELD1":7261,
+    "FIELD2":"Operai addetti a macchinari per la filatura e la bobinatura"
+  },
+  {
+    "FIELD1":7262,
+    "FIELD2":"Operai addetti a telai meccanici per la tessitura e la maglieria"
+  },
+  {
+    "FIELD1":7263,
+    "FIELD2":"Operai addetti macchinari confezioni abbigliamento in stoffa e assim."
+  },
+  {
+    "FIELD1":7264,
+    "FIELD2":"Operai addetti macchinari trattamento filati e tessuti industriali"
+  },
+  {
+    "FIELD1":7265,
+    "FIELD2":"Operai addetti a macchinari per la stampa dei tessuti"
+  },
+  {
+    "FIELD1":7266,
+    "FIELD2":"Addetti macchinari preparazione e produz. in serie articoli in pelle"
+  },
+  {
+    "FIELD1":7267,
+    "FIELD2":"Addetti a macchinari per la produzione in serie di calzature"
+  },
+  {
+    "FIELD1":7271,
+    "FIELD2":"Assemblatori in serie di parti di macchine"
+  },
+  {
+    "FIELD1":7272,
+    "FIELD2":"Assemblatori e cablatori di apparecchiature elettriche"
+  },
+  {
+    "FIELD1":7273,
+    "FIELD2":"Assemblatori e cablatori apparecch. elettroniche e telecomunicazioni"
+  },
+  {
+    "FIELD1":7274,
+    "FIELD2":"Assemblatori in serie articoli in metallo, gomma e materie plastiche"
+  },
+  {
+    "FIELD1":7275,
+    "FIELD2":"Assemblatori in serie di articoli in legno e in materiali assimilati"
+  },
+  {
+    "FIELD1":7276,
+    "FIELD2":"Assemblatori in serie articoli in cartone, tessuto e materie assim."
+  },
+  {
+    "FIELD1":7279,
+    "FIELD2":"Altri operai assemblaggio e produz. in serie di articoli industriali"
+  },
+  {
+    "FIELD1":7281,
+    "FIELD2":"Operai addetti a macchine confezionatrici di prodotti industriali"
+  },
+  {
+    "FIELD1":7313,
+    "FIELD2":"Operai refrigeraz., trattamento igienico e prima trasformaz. del latte"
+  },
+  {
+    "FIELD1":7322,
+    "FIELD2":"Conduttori apparecchi lavoraz. industriale prodotti lattieroâ€“caseari"
+  },
+  {
+    "FIELD1":7323,
+    "FIELD2":"Conduttori di macchinari industriali lavorazione cereali e spezie"
+  },
+  {
+    "FIELD1":7324,
+    "FIELD2":"Conduttori macch. trattam. e conservaz. frutta, verdure, legumi e riso"
+  },
+  {
+    "FIELD1":7326,
+    "FIELD2":"Conduttori macchinari preparaz. produz. the, caffè, cioccolata"
+  },
+  {
+    "FIELD1":7327,
+    "FIELD2":"Conduttori di macchinari per la lavorazione dei prodotti del tabacco"
+  },
+  {
+    "FIELD1":7328,
+    "FIELD2":"Vinificatori, birrai, operai macch. produz. liquori e bevande analcol."
+  },
+  {
+    "FIELD1":7329,
+    "FIELD2":"Conduttori macchinari produzione pasticceria e prodotti da forno"
+  },
+  {
+    "FIELD1":7411,
+    "FIELD2":"Conduttori di convogli ferroviari"
+  },
+  {
+    "FIELD1":7412,
+    "FIELD2":"Operatori di verifica, circolazione e formazione treni"
+  },
+  {
+    "FIELD1":7413,
+    "FIELD2":"Manovratori di impianti a fune"
+  },
+  {
+    "FIELD1":7421,
+    "FIELD2":"Autisti di taxi, conduttori di automobili, furgoni e altri veicoli"
+  },
+  {
+    "FIELD1":7422,
+    "FIELD2":"Conduttori di autobus, di tram e di filobus"
+  },
+  {
+    "FIELD1":7423,
+    "FIELD2":"Conduttori di mezzi pesanti e camion"
+  },
+  {
+    "FIELD1":7432,
+    "FIELD2":"Conduttori macch. raccoglitrici, mietritrici e pressatrici agricole"
+  },
+  {
+    "FIELD1":7441,
+    "FIELD2":"Conduttori di macchinari per il movimento terra"
+  },
+  {
+    "FIELD1":7442,
+    "FIELD2":"Conduttori di macchinari mobili per la perforazione nelle costruzioni"
+  },
+  {
+    "FIELD1":7443,
+    "FIELD2":"Conduttori di gru e di apparecchi di sollevamento"
+  },
+  {
+    "FIELD1":7444,
+    "FIELD2":"Conduttori di carrelli elevatori"
+  },
+  {
+    "FIELD1":7451,
+    "FIELD2":"Marinai di coperta"
+  },
+  {
+    "FIELD1":7453,
+    "FIELD2":"Conduttori di barche e battelli a motore"
+  },
+  {
+    "FIELD1":8121,
+    "FIELD2":"Uscieri e professioni assimilate"
+  },
+  {
+    "FIELD1":8122,
+    "FIELD2":"Lettori di contatori, collettori di monete e professioni assimilate"
+  },
+  {
+    "FIELD1":8131,
+    "FIELD2":"Facchini, addetti allo spostamento merci e assimilati"
+  },
+  {
+    "FIELD1":8132,
+    "FIELD2":"Personale non qualificato addetto all'imballaggio e al magazzino"
+  },
+  {
+    "FIELD1":8133,
+    "FIELD2":"Addetti alle consegne"
+  },
+  {
+    "FIELD1":8141,
+    "FIELD2":"Personale non qualif. addetto pulizia servizi alloggio e navi"
+  },
+  {
+    "FIELD1":8142,
+    "FIELD2":"Personale non qualificato nei servizi di ristorazione"
+  },
+  {
+    "FIELD1":8143,
+    "FIELD2":"Personale non qualif. servizi pulizia uffici ed esercizi commerciali"
+  },
+  {
+    "FIELD1":8144,
+    "FIELD2":"Addetti al lavaggio veicoli"
+  },
+  {
+    "FIELD1":8145,
+    "FIELD2":"Operatori ecologici e altri raccoglitori e separatori di rifiuti"
+  },
+  {
+    "FIELD1":8151,
+    "FIELD2":"Bidelli e professioni assimilate"
+  },
+  {
+    "FIELD1":8152,
+    "FIELD2":"Portantini e professioni assimilate"
+  },
+  {
+    "FIELD1":8161,
+    "FIELD2":"Personale non qualif. servizi custodia di edifici, attrezzature e beni"
+  },
+  {
+    "FIELD1":8211,
+    "FIELD2":"Personale non qualificato nei servizi ricreativi e culturali"
+  },
+  {
+    "FIELD1":8311,
+    "FIELD2":"Braccianti agricoli"
+  },
+  {
+    "FIELD1":8312,
+    "FIELD2":"Personale non qualificato addetto alla manutenzione del verde"
+  },
+  {
+    "FIELD1":8322,
+    "FIELD2":"Personale non qualificato addetto alla cura degli animali"
+  },
+  {
+    "FIELD1":8411,
+    "FIELD2":"Manovali e altro personale non qualificato delle miniere e delle cave"
+  },
+  {
+    "FIELD1":8421,
+    "FIELD2":"Manovali e personale non qualif. edilizia civile e profess. assim."
+  },
+  {
+    "FIELD1":8422,
+    "FIELD2":"Manovali e personale non qualif. costruz., manutenz. opere pubbliche"
+  },
+  {
+    "FIELD1":8431,
+    "FIELD2":"Personale non qualificato attività industriali e profess. assimilate"
+  }
+]
